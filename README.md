@@ -4,7 +4,8 @@
 
 **Name:** Aditya Savaliya  
 **Project:** Energy Demand Prediction and Clustering  
-**Notebook:** `practical.ipynb`
+**Notebook:** `practical.ipynb` 
+
 Video link- https://drive.google.com/file/d/1V38-oulzPh8zF8kg5JgOosBBFRPdsbYI/view?usp=sharing
 
 ## Objective
